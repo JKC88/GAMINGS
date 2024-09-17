@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Sep 2024 20:07:54 at https://repairworksonline.com/09845-meaning-of-happiness30/?ad_id=%7B%7Bad.id%7D%7D&adset_id=%7B%7Badset.id%7D%7D&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_name=%7B%7Bad.name%7D%7D&adset_name=%7B%7Badset.name%7D%7D&campaign_name=%7B%7Bcampaign.name%7D%7D&source=%7B%7Bsite_source_name%7D%7D&placement=%7B%7Bplacement%7D%7D&pid=488202094113565&cpid=eb5312a9-d2e0-44ac-8058-baadc7adbd37&lpid=abacb370-87b2-4615-a3de-8b2a2d964777# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://repairworksonline.com/09845-meaning-of-happiness30/?ad_id=%7B%7Bad.id%7D%7D&adset_id=%7B%7Badset.id%7D%7D&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_name=%7B%7Bad.name%7D%7D&adset_name=%7B%7Badset.name%7D%7D&campaign_name=%7B%7Bcampaign.name%7D%7D&source=%7B%7Bsite_source_name%7D%7D&placement=%7B%7Bplacement%7D%7D&pid=488202094113565&cpid=eb5312a9-d2e0-44ac-8058-baadc7adbd37&lpid=abacb370-87b2-4615-a3de-8b2a2d964777# -O1 "C:\Users\user\Desktop\GAME\JKC88" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:08:02	Error: 	"Bad Request" (400) at link https://stransensilions.com/d/eb5312a9-d2e0-44ac-8058-baadc7adbd37.js (from https://repairworksonline.com/09845-meaning-of-happiness30/?ad_id=%7B%7Bad.id%7D%7D&adset_id=%7B%7Badset.id%7D%7D&campaign_id=%7B%7Bcampaign.id%7D%7D&ad_name=%7B%7Bad.name%7D%7D&adset_name=%7B%7Badset.name%7D%7D&campaign_name=%7B%7Bcampaign.name%7D%7D&source=%7B%7Bsite_source_name%7D%7D&placement=%7B%7Bplacement%7D%7D&pid=488202094113565&cpid=eb5312a9-d2e0-44ac-8058-baadc7adbd37&lpid=abacb370-87b2-4615-a3de-8b2a2d964777)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 26 links scanned, 24 files written (2869986 bytes overall) [2587034 bytes received at 323379 bytes/sec], 392777 bytes transferred using HTTP compression in 6 files, ratio 22%, 4.3 requests per connection
+(1 errors, 0 warnings, 0 messages)
